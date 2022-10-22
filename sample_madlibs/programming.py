@@ -1,10 +1,3 @@
-# # concatination
-# youtuber = "Cadu"
-
-# print("subscribe to " + youtuber)
-# print("subscribe to {}".format(youtuber))
-# print(f"subscribe to {youtuber}")
-
 def madlib():
   adj = input("Adjective: ")
   verb1 = input("Verb: ")
